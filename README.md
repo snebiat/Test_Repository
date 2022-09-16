@@ -1,1 +1,1 @@
-This is a test repository
+Learn how to solve merge conflict
